@@ -1,0 +1,2 @@
+# webpage_update_detection
+Webページの更新を自動検知するプログラム
